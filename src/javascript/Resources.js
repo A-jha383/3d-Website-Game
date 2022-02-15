@@ -116,7 +116,6 @@ import informationBaguetteCollisionSource from '../models/information/baguette/c
 import informationContactTwitterLabelSource from '../models/information/static/contactTwitterLabel.png'
 import informationContactGithubLabelSource from '../models/information/static/contactGithubLabel.png'
 import informationContactLinkedinLabelSource from '../models/information/static/contactLinkedinLabel.png'
-import informationContactMailLabelSource from '../models/information/static/contactMailLabel.png'
 
 import informationActivitiesSource from '../models/information/static/activities.png'
 

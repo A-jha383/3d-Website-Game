@@ -7,34 +7,6 @@ import projectsThreejsJourneySlideBSources from '../../../models/projects/threej
 import projectsThreejsJourneySlideCSources from '../../../models/projects/threejsJourney/slideC.jpg'
 import projectsThreejsJourneySlideDSources from '../../../models/projects/threejsJourney/slideD.jpg'
 
-import projectsChartogneSlideASources from '../../../models/projects/chartogne/slideA.jpg'
-import projectsChartogneSlideBSources from '../../../models/projects/chartogne/slideB.jpg'
-import projectsChartogneSlideCSources from '../../../models/projects/chartogne/slideC.jpg'
-
-import projectsZenlySlideASources from '../../../models/projects/zenly/slideA.jpg'
-import projectsZenlySlideBSources from '../../../models/projects/zenly/slideB.jpg'
-import projectsZenlySlideCSources from '../../../models/projects/zenly/slideC.jpg'
-
-import projectsCitrixRedbullSlideASources from '../../../models/projects/citrixRedbull/slideA.jpg'
-import projectsCitrixRedbullSlideBSources from '../../../models/projects/citrixRedbull/slideB.jpg'
-import projectsCitrixRedbullSlideCSources from '../../../models/projects/citrixRedbull/slideC.jpg'
-
-import projectsPriorHoldingsSlideASources from '../../../models/projects/priorHoldings/slideA.jpg'
-import projectsPriorHoldingsSlideBSources from '../../../models/projects/priorHoldings/slideB.jpg'
-import projectsPriorHoldingsSlideCSources from '../../../models/projects/priorHoldings/slideC.jpg'
-
-import projectsOranoSlideASources from '../../../models/projects/orano/slideA.jpg'
-import projectsOranoSlideBSources from '../../../models/projects/orano/slideB.jpg'
-import projectsOranoSlideCSources from '../../../models/projects/orano/slideC.jpg'
-
-import projectsGleecChatSlideASources from '../../../models/projects/gleecChat/slideA.jpg'
-import projectsGleecChatSlideBSources from '../../../models/projects/gleecChat/slideB.jpg'
-import projectsGleecChatSlideCSources from '../../../models/projects/gleecChat/slideC.jpg'
-import projectsGleecChatSlideDSources from '../../../models/projects/gleecChat/slideD.jpg'
-
-import projectsKepplerSlideASources from '../../../models/projects/keppler/slideA.jpg'
-import projectsKepplerSlideBSources from '../../../models/projects/keppler/slideB.jpg'
-import projectsKepplerSlideCSources from '../../../models/projects/keppler/slideC.jpg'
 
 export default class ProjectsSection
 {
@@ -105,7 +77,7 @@ export default class ProjectsSection
     {
         this.list = [
             {
-                name: 'Three.js Journey',
+                name: 'MY PROJECTS',
                 imageSources:
                 [
                     projectsThreejsJourneySlideASources,
@@ -116,7 +88,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
                 link:
                 {
-                    href: 'https://jcool4liv.wixsite.com/my-site-1/product-page/a-good-time',
+                    href: 'https://github.com/A-jha383',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
