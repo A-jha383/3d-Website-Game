@@ -332,7 +332,7 @@ export default class Resources extends EventEmitter
             { name: 'informationContactTwitterLabel', source: informationContactTwitterLabelSource, type: 'texture' },
             { name: 'informationContactGithubLabel', source: informationContactGithubLabelSource, type: 'texture' },
             { name: 'informationContactLinkedinLabel', source: informationContactLinkedinLabelSource, type: 'texture' },
-            { name: 'informationContactMailLabel', source: informationContactMailLabelSource, type: 'texture' },
+            
 
             { name: 'informationActivities', source: informationActivitiesSource, type: 'texture' },
 
