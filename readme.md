@@ -1,4 +1,4 @@
-# Folio 2019
+# 3D Website
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -16,8 +16,4 @@ npm run dev
 
 # Build for production in the dist/ directory
 npm run build
-```
-
-```
-🥚 2021eggpvlzscw
 ```
